@@ -1,7 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This project belongs to Anshuman Rawat.
+# ScreenShot
 
-![alt text](https://github.com/nikkhil0018/iphoneofficialunlock/blob/master/Screenshot.png)
+![alt text](https://github.com/nikkhil0018/iPhoneOfficialUnlock-React/blob/master/Screenshot.png)
 
 ## Available Scripts
 
